@@ -1,6 +1,6 @@
 <div align="center">
 <img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" alt="Prayer Tracker Icon" width=25% height=25%>
-  <h1 align="center">MyPrayerTracker</h1>
+  <h1 align="center">Prayer Time</h1>
   <p align="center">A Simple Prayer Tracking App</p>
 </div>
 
@@ -33,7 +33,7 @@ An Android application built using Kotlin for logic, XML for UI design, and SQLi
 
 ## Download
 
-Download the APK from the [release section](https://github.com/YourUsername/MyPrayerTracker/releases).
+Download the APK from the [release section](https://github.com/Fahan-36/Prayer-Time.git).
 
 ## Build Manual
 
@@ -55,7 +55,7 @@ Download the APK from the [release section](https://github.com/YourUsername/MyPr
 - Configure an Android Emulator in the IDE
 - Clone the project repository using:
     ```bash
-      git clone https://github.com/YourUsername/MyPrayerTracker
+      git clone https://github.com/Fahan-36/Prayer-Time.git
     ```
 - Ensure all dependencies are added in the build file (`build.gradle.kts:app`).
 - Run the build to start the emulator and app.

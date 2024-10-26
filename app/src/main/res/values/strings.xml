@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Prayer Time</string>
+    <string name="add_prayer_name_and_time">Add Prayer Name and Time</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+
+</resources>

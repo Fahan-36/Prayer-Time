@@ -33,8 +33,7 @@ An Android application built using Kotlin for logic, XML for UI design, and SQLi
 
 ## Download
 
-Download the APK from the [release section](https://github.com/Fahan-36/Prayer-Time.git).
-
+Download the APK from the [release section](https://github.com/Fahan-36/Prayer-Time/releases)
 ## Build Manual
 
 ### Package & Software Requirements

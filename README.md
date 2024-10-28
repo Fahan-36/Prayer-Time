@@ -63,7 +63,7 @@ Download the APK from the [release section](https://github.com/Fahan-36/Prayer-T
 ## Screenshots
 
 <div align="center">
-    <img src="screenshots/Screenshot_01.jpg" alt="App screenshot 1" width=25% height=25%>
+    <img src="D:\Book Pdf\screenshots1.jpg" alt="App screenshot 1" width=25% height=25%>
     <img src="screenshots/Screenshot_02.jpg" alt="App screenshot 2" width=25% height=25%>
     <img src="screenshots/Screenshot_03.jpg" alt="App screenshot 3" width=25% height=25%>
     <img src="screenshots/Screenshot_04.jpg" alt="App screenshot 4" width=25% height=25%>
